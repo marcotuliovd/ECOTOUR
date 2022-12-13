@@ -1,4 +1,4 @@
-# Ecotuor
+# Ecotour
 
 ##Esta é minha primeira aplicação back.
 É um end point simples onde utiliza o metodo de post.
